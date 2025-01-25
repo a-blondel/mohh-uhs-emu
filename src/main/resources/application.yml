@@ -1,0 +1,6 @@
+mohh-psp:
+  port: 3658
+mohh2-psp:
+  port: 3659
+mohh2-wii:
+  port: 3660
